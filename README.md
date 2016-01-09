@@ -1,2 +1,6 @@
 # 0000_Lists
-List of git repositories, tutorials, MOOCS and projects
+
+This repository is to maintain a list of:
+* Git repositories
+* Tutorials & MOOCS completed by topic
+* Projects
