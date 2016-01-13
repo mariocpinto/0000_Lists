@@ -3,6 +3,7 @@
 
 []()  
 []()  
+[0009_Python_Data_Structures](https://github.com/mariocpinto/0009_Python_Data_Structures)  
 [0008_MOOC_Getting_Started_with_Python](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)  
 [0007_TUTORIAL_Try_Git](https://github.com/mariocpinto/0007_TUTORIAL_Try_Git)  
 [0006_MISC_Spoon-Knife](https://github.com/mariocpinto/0006_MISC_Spoon-Knife)  
