@@ -2,7 +2,8 @@
 ## This is a running list of my Git repositories:
 
 []()
-[]()  
+[]()
+[0011_MOOC_Introduction_to_Python_for_Data_Science](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)  
 [0010_MOOC_Introduction_to_CS_and_Programming_Using_Python](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)  
 [0009_MOOC_Python_Data_Structures](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures)  
 [0008_MOOC_Getting_Started_with_Python](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)  
