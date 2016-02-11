@@ -3,6 +3,7 @@
 
 []()
 []()
+[0013_MOOC_Using_Python_to_Access_Web_Data](https://github.com/mariocpinto/[0013_MOOC_Using_Python_to_Access_Web_Data)  
 [0012_MOOC_Introduction_to_Probability](https://github.com/mariocpinto/0012_MOOC_Introduction_to_Probability)  
 [0011_MOOC_Introduction_to_Python_for_Data_Science](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)  
 [0010_MOOC_Introduction_to_CS_and_Programming_Using_Python](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)  
