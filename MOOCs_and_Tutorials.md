@@ -26,7 +26,14 @@ MOOC | [Coursera](https://www.coursera.org/) | [Getting Started with Python](htt
 MOOC | [Coursera](https://www.coursera.org/) | [Python Data Structures](https://www.coursera.org/learn/python-data/) | [My Work](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures)
 MOOC | [edX](https://www.edx.org/) | [Introduction to CS & Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) | [_In Progress_](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)
 MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) | [My Work](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)
-MOOC | [Coursera](https://www.coursera.org/) | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | [_In Progress_](https://github.com/mariocpinto/0013_MOOC_Using_Python_to_Access_Web_Data)
+
+<br>
+
+#### Data Scraping
+MOOC / Tutorial| Provider | Title | Link to my Coursework
+:---: | --- | --- | :---:
+MOOC | [Udacity](https://www.udacity.com/) | [Introduction to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) | [_In Progress_](https://github.com/mariocpinto/0013_MOOC_Introduction_to_HTML_and_CSS)
+MOOC | [Coursera](https://www.coursera.org/) | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | [_In Progress_](https://github.com/mariocpinto/0014_MOOC_Using_Python_to_Access_Web_Data)
 
 <br>
 
