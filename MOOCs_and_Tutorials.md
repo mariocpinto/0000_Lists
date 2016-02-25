@@ -32,7 +32,7 @@ MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](h
 #### Data Scraping
 MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
-MOOC | [Udacity](https://www.udacity.com/) | [Introduction to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) | [_In Progress_](https://github.com/mariocpinto/0013_MOOC_Introduction_to_HTML_and_CSS)
+MOOC | [Udacity](https://www.udacity.com/) | [Introduction to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) | [My Work](https://github.com/mariocpinto/0013_MOOC_Introduction_to_HTML_and_CSS)
 MOOC | [Coursera](https://www.coursera.org/) | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | [_In Progress_](https://github.com/mariocpinto/0014_MOOC_Using_Python_to_Access_Web_Data)
 
 <br>
