@@ -25,7 +25,14 @@ MOOC / Tutorial| Provider | Title | Link to my Coursework
 MOOC | [Coursera](https://www.coursera.org/) | [Getting Started with Python](https://www.coursera.org/learn/python) | [My Work](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)
 MOOC | [Coursera](https://www.coursera.org/) | [Python Data Structures](https://www.coursera.org/learn/python-data/) | [My Work](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures)
 MOOC | [edX](https://www.edx.org/) | [Introduction to CS & Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) | [_In Progress_](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)
+
+<br>
+
+#### Python for Data Science
+MOOC / Tutorial| Provider | Title | Link to my Coursework
+:---: | --- | --- | :---:
 MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) | [My Work](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)
+MOOC | [edX](https://www.edx.org/) | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | [_In Progress_](https://github.com/mariocpinto/0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science.git)
 
 <br>
 
