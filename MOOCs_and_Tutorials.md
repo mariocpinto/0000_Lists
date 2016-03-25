@@ -24,7 +24,7 @@ MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
 MOOC | [Coursera](https://www.coursera.org/) | [Getting Started with Python](https://www.coursera.org/learn/python) | [My Work](https://github.com/mariocpinto/0008_MOOC_Getting_Started_with_Python)
 MOOC | [Coursera](https://www.coursera.org/) | [Python Data Structures](https://www.coursera.org/learn/python-data/) | [My Work](https://github.com/mariocpinto/0009_MOOC_Python_Data_Structures)
-MOOC | [edX](https://www.edx.org/) | [Introduction to CS & Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) | [_In Progress_](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)
+MOOC | [edX](https://www.edx.org/) | [Introduction to CS & Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) | [My Work](https://github.com/mariocpinto/0010_MOOC_Introduction_to_CS_and_Programming_Using_Python)
 
 <br>
 
