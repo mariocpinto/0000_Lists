@@ -28,19 +28,26 @@ MOOC | [edX](https://www.edx.org/) | [Introduction to CS & Programming using Pyt
 
 <br>
 
-#### Python for Data Science
-MOOC / Tutorial| Provider | Title | Link to my Coursework
-:---: | --- | --- | :---:
-MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) | [My Work](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)
-MOOC | [edX](https://www.edx.org/) | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | [_In Progress_](https://github.com/mariocpinto/0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science.git)
-
-<br>
-
 #### Data Scraping
 MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
 MOOC | [Udacity](https://www.udacity.com/) | [Introduction to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) | [My Work](https://github.com/mariocpinto/0013_MOOC_Introduction_to_HTML_and_CSS)
 MOOC | [Coursera](https://www.coursera.org/) | [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | [_In Progress_](https://github.com/mariocpinto/0014_MOOC_Using_Python_to_Access_Web_Data)
+
+<br>
+
+#### Databases
+MOOC / Tutorial| Provider | Title | Link to my Coursework
+:---: | --- | --- | :---:
+MOOC | [Coursera](https://www.coursera.org/) | [Using Databases with Python](https://www.coursera.org/learn/python-databases/) | [_In Progress_](https://github.com/mariocpinto/0016_MOOC_Using_Databases_with_Python)
+
+<br>
+
+#### Python for Data Science
+MOOC / Tutorial| Provider | Title | Link to my Coursework
+:---: | --- | --- | :---:
+MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) | [My Work](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)
+MOOC | [edX](https://www.edx.org/) | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | [_In Progress_](https://github.com/mariocpinto/0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science.git)
 
 <br>
 
