@@ -48,6 +48,7 @@ MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
 MOOC | [edX](https://www.edx.org/) | [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) | [My Work](https://github.com/mariocpinto/0011_MOOC_Introduction_to_Python_for_Data_Science)
 MOOC | [edX](https://www.edx.org/) | [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3) | [_In Progress_](https://github.com/mariocpinto/0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science.git)
+Book | [J. Evans](http://jvns.ca/) | [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) | [_In Progress_](https://github.com/mariocpinto/0017_BOOK_Pandas_Cookbook)
 
 <br>
 
