@@ -3,6 +3,9 @@
 
 []()  
 []()  
+[0020_TUTORIAL_Mode_Analytics_SQL_School](https://github.com/mariocpinto/0020_TUTORIAL_Mode_Analytics_SQL_School)  
+[0019_PROJECT_NYC_311_Heroku_App](https://github.com/mariocpinto/0019_PROJECT_NYC_311_Heroku_App)  
+[0018_PROJECT_NYC_311_Call_Data_Analysis](https://github.com/mariocpinto/0018_PROJECT_NYC_311_Call_Data_Analysis)  
 [0017_BOOK_Pandas_Cookbook](https://github.com/mariocpinto/0017_BOOK_Pandas_Cookbook)  
 [0016_MOOC_Using_Databases_with_Python](https://github.com/mariocpinto/0016_MOOC_Using_Databases_with_Python)  
 [0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science](https://github.com/mariocpinto/0015_MOOC_Introduction_to_Computational_Thinking_and_Data_Science.git)
