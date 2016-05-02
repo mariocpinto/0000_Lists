@@ -2,12 +2,14 @@
 
 <br>
 
+<!--
 #### Probability and Statistics
 MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
 MOOC | [edX](https://www.edx.org/) | [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1) | [_In Progress_](https://github.com/mariocpinto/0012_MOOC_Introduction_to_Probability)
 
 <br>
+-->
 
 #### Git and Markdown
 MOOC / Tutorial| Provider | Title | Link to my Coursework
@@ -53,7 +55,9 @@ Book | [J. Evans](http://jvns.ca/) | [Pandas Cookbook](https://github.com/jvns/p
 
 <br>
 
+<!--
 #### R
 MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
 MOOC | [Coursera](https://www.coursera.org/) | [The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools) | [My Work](https://github.com/mariocpinto/0003_MOOC_The_Data_Scientists_Toolbox)
+-->
