@@ -47,7 +47,7 @@ Book | [J. Evans](http://jvns.ca/) | [Pandas Cookbook](https://github.com/jvns/p
 #### Applied Data Analysis
 MOOC / Tutorial| Provider | Title | Link to my Coursework
 :---: | --- | --- | :---:
-MOOC | [edX](https://www.edx.org/) | [Evaluating Social Programs](https://www.edx.org/course/evaluating-social-programs-mitx-jpal101x-3) | [My Work](https://github.com/mariocpinto/0021_MOOC_Evaluating_Social_Programs)
+MOOC | [edX](https://www.edx.org/) | [Evaluating Social Programs](https://www.edx.org/course/evaluating-social-programs-mitx-jpal101x-3) | [_In Progress_](https://github.com/mariocpinto/0021_MOOC_Evaluating_Social_Programs)
 
 <br>
 
